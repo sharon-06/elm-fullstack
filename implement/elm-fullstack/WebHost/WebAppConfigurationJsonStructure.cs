@@ -6,7 +6,7 @@ namespace ElmFullstack
 
         public int? httpRequestEventSizeLimit;
 
-        public FluffySpoon.AspNet.LetsEncrypt.LetsEncryptOptions letsEncryptOptions;
+        public FluffySpoon.AspNet.LetsEncrypt.Certes.LetsEncryptOptions letsEncryptOptions;
 
         public class ConditionalMapFromStringToString
         {
